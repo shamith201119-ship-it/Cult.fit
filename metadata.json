@@ -1,0 +1,6 @@
+{
+  "name": "Cult.fit",
+  "description": "An immersive, cinematic, scroll-driven storytelling experience for Cult.fit, premium high-performance gyms and fitness sanctuaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
